@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 welcome
+
+My name is Gabriel, i am a front-end developer with a passion for art, tech and multimedia.
+
+you can find me breaking things in [Codepen](https://codepen.io/leirbagabo).
+
+
+
+
 
 <!--
 **Leirbagabo/Leirbagabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
