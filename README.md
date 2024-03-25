@@ -2,6 +2,8 @@
 
 My name is Gabriel, i am a front-end developer with a passion for art, tech and multimedia.
 
+acuerdate de cambiar esto por favorcito ya no eres solo front. Boa Tarde
+
 you can find me breaking stuff in [Codepen](https://codepen.io/leirbagabo).
 
 
